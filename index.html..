@@ -1,0 +1,21 @@
+<button class="navbar-toggler"type="button"data-bs-toggle="collapse"data-bs-target="#navbarNav">
+<span class="navbar-toggler-icon"></span>
+</button>
+<div class="collapse nabar-collapse"id="navbarNav">
+<ul class="navbr-nav ms-auto">
+<li class="nav-item"><a class="nav-link"href="#about">درباره من</a></li>
+<li class="nav-item"><a class="nav-link"href="#projects">پروژهه ها</a></li>
+<li class="nav-item"><a class="nav-link"href="#contact">تماس </a></li>
+</ul>
+</div>
+</div>
+</nav>
+
+
+<!--Carousel(اسلاید تصاویر)-->
+<div id="myCarousel"class="carousel slide"data-bs-ride="carousel">
+<div class="carousel-inner">
+<div class="carousel-item active">
+<img src="http://picsum.photos/1200/400?random=1"class="d-block w-100"alt="Project 1">
+
+
